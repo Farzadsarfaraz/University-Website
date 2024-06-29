@@ -1,0 +1,32 @@
+.hero{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(rgba(8, 0, 58, 0.7), rgba(8, 0, 58, 0.7)), url(https://d3rsva8zdn1qpf.cloudfront.net/sites/school9/files/2021-09/University-Graduates-1200x720.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Hero-text{
+    
+    min-width: 800px;
+}
+.Hero-text h1{
+    font-size:  50px;
+    font-weight: 600;
+}
+.Hero-text p{
+    max-width: 700px;
+    margin: 10px, auto, 10px, 0;
+    line-height: 1.4;
+}
+.btn{
+    margin-top: 10px;
+    transition: 0.3s;
+}
+.btn:hover{
+    background-color: rgb(190, 211, 204);
+}
