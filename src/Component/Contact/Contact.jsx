@@ -32,7 +32,7 @@ const Contact = () => {
       <div className="contact-col">
         <h3>Send us a message <i class='bx bxs-message-rounded-dots message' ></i></h3>
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum soluta
+          Lorem ipsum dolor sit amet  consectetur, adipisicing elit. Rerum soluta
           accusantium asperiores ut blanditiis eligendi! Voluptatibus, quaerat,
           facilis veniam omnis quam eius perferendis delectus, ipsa labore esse
           iste nostrum quia.</p>
