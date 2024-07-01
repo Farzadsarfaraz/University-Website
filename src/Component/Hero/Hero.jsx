@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <div className="hero container">
       <div className="Hero-text">
-        <h1>Lorem ipsum sint sint sint. Inventore, impedit.</h1>
+        <h1>Stay With our university</h1>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam velit
           quisquam vitae maiores inventore? Corrupti culpa repellat, illum

@@ -45,7 +45,7 @@ nav ul li {
 
 @media (max-width: 1000px){
   .NavLog{
-    width: 140px;
+    width: 90px;
   }
   nav ul li{
     margin: 10px 15px;
@@ -58,11 +58,11 @@ nav ul li {
   nav ul{
     position: fixed;
     top: 0;
-    right: -400px;
+    right: 0px;
     bottom: 0;
     background: #212EA0;
     z-index: -1;
-    width: 250px;
+    width: 220px;
     padding-top: 70px;
     transition: 0.5s;
   }
@@ -72,10 +72,14 @@ nav ul li {
 }
 .menu-icon{
   display: block;
+  width: 30px;
   font-size: 2.5rem;
   cursor: pointer;
 }
-.hideMobileMe{
-  right: 0p;
+.hide-mobile-menu{
+  right: -500px;
+}
+.NavLog{
+  width: 90px;
 }
 }

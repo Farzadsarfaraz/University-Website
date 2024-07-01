@@ -10,16 +10,15 @@
     align-items: center;
     justify-content: center;
 }
-.Hero-text{
-    
-    min-width: 800px;
+.Hero-text{ 
+    max-width: 95%;
 }
 .Hero-text h1{
     font-size:  50px;
     font-weight: 600;
 }
 .Hero-text p{
-    max-width: 700px;
+    width: 700px;
     margin: 10px, auto, 10px, 0;
     line-height: 1.4;
 }
@@ -29,4 +28,21 @@
 }
 .btn:hover{
     background-color: rgb(190, 211, 204);
+}
+@media(max-width: 850px){
+    .Hero-text h1{
+        font-size: 30px;
+    }
+}
+@media(max-width: 650px){
+    .Hero-text h1{
+        font-size: 25px;
+        margin: auto;
+        width: 92%;
+    }
+    .Hero-text p{
+        font-size: 14px;
+        margin: 15px auto 30px;
+        width: 90%;
+    }
 }
