@@ -1,12 +1,12 @@
 import React from 'react'
 import "./About.css"
 
-function About() {
+function About({setPlayState}) {
   return (
     <div className='about'>
         <div className="about-left">
             <img src ="https://th.bing.com/th/id/R.68a2164df2283a96fb65460e10d1b7bd?rik=NgfnaEc%2fwQnZxA&pid=ImgRaw&r=0" alt="" className='about-img'/>
-            <i class='bx bx-play play-icon'></i>
+            <i className='bx bx-play play-icon' onClick={() =>{setPlayState(true)}}></i>
 
         </div>
         <div className="about-right">

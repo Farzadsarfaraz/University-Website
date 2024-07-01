@@ -12,7 +12,7 @@ function Programs() {
         />
         <div className="Caption">
           <img
-            src="https://static.vecteezy.com/system/resources/previews/023/654/784/non_2x/golden-logo-template-free-png.png"
+            src="https://toppng.com/public/uploads/preview/gold-graduation-cap-png-11552725568c0i0kp7mdb.png"
             width="100px"
           />
           <p> It was showed</p>
@@ -27,7 +27,7 @@ function Programs() {
         />
         <div className="Caption">
           <img
-            src="https://static.vecteezy.com/system/resources/previews/023/654/784/non_2x/golden-logo-template-free-png.png"
+            src="https://toppng.com/public/uploads/preview/gold-graduation-cap-png-11552725568c0i0kp7mdb.png"
             width="100px"
           />
           <p> It was showed</p>
@@ -36,12 +36,12 @@ function Programs() {
       <div className="program">
         <img
           src="https://blog.registryfinder.com/wp-content/uploads/2015/04/grads.jpg"
-          alt="photo"
+          alt="PHOTO1"
           width="299px"
         />
         <div className="Caption">
           <img
-            src="https://static.vecteezy.com/system/resources/previews/023/654/784/non_2x/golden-logo-template-free-png.png"
+            src="https://toppng.com/public/uploads/preview/gold-graduation-cap-png-11552725568c0i0kp7mdb.png"
             width="100px"
           />
           <p> It was showed</p>

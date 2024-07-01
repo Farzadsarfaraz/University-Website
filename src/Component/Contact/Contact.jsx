@@ -30,16 +30,16 @@ const Contact = () => {
   return (
     <div className="contact">
       <div className="contact-col">
-        <h3>Send us a message <i class='bx bxs-message-rounded-dots message' ></i></h3>
+        <h3>Send us a message <i className='bx bxs-message-rounded-dots message' ></i></h3>
         <p>
           Lorem ipsum dolor sit amet  consectetur, adipisicing elit. Rerum soluta
           accusantium asperiores ut blanditiis eligendi! Voluptatibus, quaerat,
           facilis veniam omnis quam eius perferendis delectus, ipsa labore esse
           iste nostrum quia.</p>
         <ul>
-          <li> <i class='bx bxs-envelope img'></i>Farzadsarfarazwvo@gmai.com</li>
-          <li><i class='bx bxs-mobile img'></i>015750074356 </li>
-          <li><i class='bx bx-current-location img'></i>München, Deutschland </li>
+          <li> <i className='bx bxs-envelope img'></i>Farzadsarfarazwvo@gmai.com</li>
+          <li><i className='bx bxs-mobile img'></i>015750074356 </li>
+          <li><i className='bx bx-current-location img'></i>München, Deutschland </li>
         </ul>
       </div>
       <div className="contact-col">

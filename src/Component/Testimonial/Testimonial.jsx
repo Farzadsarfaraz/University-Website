@@ -12,7 +12,6 @@ const Testimonial = () => {
             tx -= 25;
         }
         slider.current.style.transform = `translateX(${tx}%)`
-        
     }
     const slideBackward = () =>{
         if(tx < 0){
@@ -25,8 +24,8 @@ const Testimonial = () => {
 
   return (
     <div className="testimonial">
-     <i class="bx bxs-right-arrow-alt btn next-btn" onClick={slideForward}></i>
-      <i class="bx bxs-left-arrow-alt btn back-btn" onClick={slideBackward}></i>
+     <i className="bx bxs-right-arrow-alt btn next-btn" onClick={slideForward}></i>
+      <i className="bx bxs-left-arrow-alt btn back-btn" onClick={slideBackward}></i>
       <div className="slider">
         <ul ref={slider}>
           <li>
