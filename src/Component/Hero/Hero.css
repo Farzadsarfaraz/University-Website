@@ -11,7 +11,7 @@
     justify-content: center;
 }
 .Hero-text{ 
-    max-width: 95%;
+    width: 95%;
 }
 .Hero-text h1{
     font-size:  50px;
